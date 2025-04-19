@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\Character.h(10,2): warning C4369: "Direction::UP": значение перечислителя "2" не может быть представлено как "bool", значение — "2"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\Character.h(11,2): warning C4369: "Direction::DOWN": значение перечислителя "3" не может быть представлено как "bool", значение — "3"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(49,57): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(49,43): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,142): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,142): warning C4244:         with
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,142): warning C4244:         [
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,142): warning C4244:             T=float
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,142): warning C4244:         ]
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,104): warning C4244:         with
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,104): warning C4244:         [
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,104): warning C4244:             T=float
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(74,104): warning C4244:         ]
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(79,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,104): warning C4244:         with
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,104): warning C4244:         [
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,104): warning C4244:             T=float
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,104): warning C4244:         ]
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,64): warning C4244:         with
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,64): warning C4244:         [
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,64): warning C4244:             T=float
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(84,64): warning C4244:         ]
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(136,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(138,80): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(182,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\main.cpp(182,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Game.vcxproj -> C:\Users\Kille\OneDrive\Рабочий стол\Дисциплины 2 курс\C++\Infinity Gate\Game\x64\Debug\Game.exe
